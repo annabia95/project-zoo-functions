@@ -29,7 +29,5 @@ Neste projeto, desenvolvi as seguintes habilidades:
   - [4. Implemente a função `getRelatedEmployees`](#4-implemente-a-função-getrelatedemployees)
   - [5. Implemente a função `countAnimals`](#5-implemente-a-função-countanimals)
   - [6. Implemente a função `calculateEntry`](#6-implemente-a-função-calculateentry)
-  - [7. Implemente a função `getAnimalMap`](#7-implemente-a-função-getanimalmap)
-  - [8. Implemente a função `getSchedule`](#8-implemente-a-função-getschedule)
   - [9. Implemente a função `getOldestFromFirstSpecies`](#9-implemente-a-função-getoldestfromfirstspecies)
   - [10. Implemente a função `getEmployeesCoverage`](#10-implemente-a-função-getemployeescoverage)
